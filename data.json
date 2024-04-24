@@ -20,6 +20,41 @@
       "project-title": "Project Gallery",
       "project-description": "A visual gallery that showcases collection of projects I have worked on.",
       "project-url": "https://my-project-gallery.netlify.app/"
+    },
+    {
+      "id": 4,
+      "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/Pokemon%20Dataset.png",
+      "project-title": "Pokémon Data Analysis",
+      "project-description": "A visual and interactive website that showcases Pokémon data using pandas and matplotlib",
+      "project-url": "https://pkmn-dataset.streamlit.app/"
+    },
+    {
+      "id": 5,
+      "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/daily%20struggle.png",
+      "project-title": "MERN - Blog",
+      "project-description": "A responsive and authenticated fictional blog created with MERN stack.",
+      "project-url": "https://daily-struggle.onrender.com/"
+    },
+    {
+      "id": 6,
+      "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/movie-db.png",
+      "project-title": "Movie DB",
+      "project-description": "A visually appealing movie database created with Nextjs and TMDB API.",
+      "project-url": "https://movie-db-network.vercel.app/"
+    },
+    {
+      "id": 7,
+      "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/dashboard-ui.png",
+      "project-title": "Dashboard UI",
+      "project-description": "This Dashboard UI project is a responsive social media dashboard with a theme switcher referenced from Frontend Mentor.",
+      "project-url": "https://socialmedia-dashboard-ui.netlify.app/"
+    },
+    {
+      "id": 8,
+      "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/hextagram.png",
+      "project-title": "Hextagram",
+      "project-description": "Hextagram is a social media app where you can share photos with your friends and family.",
+      "project-url": "https://hextagram.vercel.app/"
     }
   ]
 }
