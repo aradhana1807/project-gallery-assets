@@ -9,14 +9,14 @@
     },
     {
       "id": 2,
-      "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/To Do noww.png",
+      "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/To%20Do%20noww.png",
       "project-title": "To Do",
       "project-description": "To-do app developed to increase productivity by keeping track of tasks",
       "project-url": "https://to-dooo-now.netlify.app/"
     },
     {
       "id": 3,
-      "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/Project Gallery.png",
+      "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/Project%20Gallery.png",
       "project-title": "Project Gallery",
       "project-description": "A visual gallery that showcases collection of projects I have worked on.",
       "project-url": "https://my-project-gallery.netlify.app/"
