@@ -62,6 +62,13 @@
       "project-title": "Markynote",
       "project-description": "A minimalistic Markdown Notepad app using Electron + Vite.",
       "project-url": "https://github.com/aradhana1807/markynote"
+    },
+    {
+      "id": 10,
+      "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/Noter.png",
+      "project-title": "Noter",
+      "project-description": "A verstailte productivity tool to keep track of your notes,and tasks.",
+      "project-url": "https://marvelous-noter-app.vercel.app/"
     }
   ]
 }
