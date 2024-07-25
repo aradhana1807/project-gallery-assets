@@ -4,7 +4,7 @@
       "id": 1,
       "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/Pokedex.png",
       "project-title": "Pokédex Card",
-      "project-description": "Pokedex card generator app using Pokedex API,to relive your childhood joy",
+      "project-description": "Pokedex card generator app using Pokedex API, to relive your childhood joy",
       "project-url": "https://sh-pokedex-card.netlify.app/"
     },
     {
@@ -46,21 +46,21 @@
       "id": 7,
       "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/dashboard-ui.png",
       "project-title": "Dashboard UI",
-      "project-description": "Dashboard UI is a responsive social media dashboard referenced from Frontend Mentor.",
+      "project-description": "A responsive social media dashboard UI challenge from Frontend Mentor.",
       "project-url": "https://socialmedia-dashboard-ui.netlify.app/"
     },
     {
       "id": 8,
       "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/hextagram.png",
       "project-title": "Hextagram",
-      "project-description": "Hextagram is a social media app where you can share photos with your friends and family.",
+      "project-description": "A social media app where you can share photos with your friends and family.",
       "project-url": "https://hextagram.vercel.app/"
     },
     {
       "id": 9,
       "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/Markynote.png",
       "project-title": "Markynote",
-      "project-description": "A minimalistic Markdown notepad app developed with Electron + Vite .",
+      "project-description": "A minimalistic Markdown notepad app developed with Electron + Vite.",
       "project-url": "https://github.com/aradhana1807/markynote"
     },
     {
