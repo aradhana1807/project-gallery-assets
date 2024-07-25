@@ -4,7 +4,7 @@
       "id": 1,
       "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/Pokedex.png",
       "project-title": "Pokédex Card",
-      "project-description": "Pokedex card generator app using Pokedex API, to relive your childhood joy",
+      "project-description": "A card generator app using Pokedex API, to relive your childhood joy",
       "project-url": "https://sh-pokedex-card.netlify.app/"
     },
     {
@@ -25,7 +25,7 @@
       "id": 4,
       "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/Pokemon%20Dataset.png",
       "project-title": "Pokémon Data Analysis",
-      "project-description": "A visual and interactive website that showcases Pokémon data using pandas and matplotlib",
+      "project-description": "An interactive website that showcases Pokémon data using pandas and matplotlib",
       "project-url": "https://pkmn-dataset.streamlit.app/"
     },
     {
@@ -53,7 +53,7 @@
       "id": 8,
       "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/hextagram.png",
       "project-title": "Hextagram",
-      "project-description": "A social media app where you can share photos with your friends and family.",
+      "project-description": "A social media app for sharing pictures with your friends and family.",
       "project-url": "https://hextagram.vercel.app/"
     },
     {
