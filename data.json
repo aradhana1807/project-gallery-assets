@@ -35,37 +35,29 @@
       "project-description": "A responsive social media dashboard UI challenge from Frontend Mentor.",
       "project-url": "https://socialmedia-dashboard-ui.netlify.app/"
     },
-
     {
       "id": 6,
-      "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/hextagram.png",
-      "project-title": "Hextagram",
-      "project-description": "A social media app for sharing pictures with your friends and family.",
-      "project-url": "https://hextagram.vercel.app/"
-    },
-    {
-      "id": 7,
       "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/daily%20struggle.png",
       "project-title": "MERN - Blog",
       "project-description": "A responsive and authenticated fictional blog created with MERN stack.",
       "project-url": "https://daily-struggle.onrender.com/"
     },
     {
-      "id": 8,
+      "id": 7,
       "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/Project%20Gallery.png",
       "project-title": "Project Gallery",
       "project-description": "A visual gallery that showcases collection of projects I have worked on.",
       "project-url": "https://re-myproject-gallery.vercel.app/"
     },
     {
-      "id": 9,
+      "id": 8,
       "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/Markynote.png",
       "project-title": "Markynote",
       "project-description": "A minimalistic Markdown notepad app developed with Electron + Vite.",
       "project-url": "https://github.com/aradhana1807/markynote"
     },
     {
-      "id": 10,
+      "id": 9,
       "project-img": "https://raw.githubusercontent.com/aradhana1807/project-gallery-assets/main/images/Noter.png",
       "project-title": "Noter",
       "project-description": "A versatile productivity tool to keep track of your notes, and tasks.",
